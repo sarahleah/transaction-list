@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "amount": "$-809014.61",
+    "shopName": "Linktype",
+    "date": "2019-12-22T07:31:04Z",
+    "industry": "Television Services",
+    "isInternal": false
+  },
+  {
+    "id": 2,
+    "amount": "$188993.49",
+    "shopName": "Photofeed",
+    "date": "2019-03-09T11:11:54Z",
+    "industry": "Medical/Dental Instruments",
+    "isInternal": false
+  },
+  {
+    "id": 3,
+    "amount": "$469286.85",
+    "shopName": "Gabvine",
+    "date": "2022-05-24T20:13:43Z",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "isInternal": true
+  },
+  {
+    "id": 4,
+    "amount": "$-614389.32",
+    "shopName": "Yodel",
+    "date": "2021-05-26T06:21:35Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 5,
+    "amount": "$88740.33",
+    "shopName": "Oyonder",
+    "date": "2021-01-05T12:17:18Z",
+    "industry": "Aerospace",
+    "isInternal": false
+  },
+  {
+    "id": 6,
+    "amount": "$-709386.41",
+    "shopName": "Skibox",
+    "date": "2021-08-02T06:06:18Z",
+    "industry": "Computer Software: Prepackaged Software",
+    "isInternal": false
+  },
+  {
+    "id": 7,
+    "amount": "$-620472.99",
+    "shopName": "Livetube",
+    "date": "2019-06-10T11:48:31Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 8,
+    "amount": "$-967739.64",
+    "shopName": "Buzzster",
+    "date": "2020-05-07T07:43:25Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 9,
+    "amount": "$-766332.60",
+    "shopName": "Babbleblab",
+    "date": "2021-02-01T23:18:28Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": false
+  },
+  {
+    "id": 10,
+    "amount": "$511103.50",
+    "shopName": "Geba",
+    "date": "2020-11-17T05:11:42Z",
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 11,
+    "amount": "$128808.33",
+    "shopName": "Leenti",
+    "date": "2021-06-04T08:46:09Z",
+    "industry": "Metal Fabrications",
+    "isInternal": false
+  },
+  {
+    "id": 12,
+    "amount": "$-740952.93",
+    "shopName": "Yozio",
+    "date": "2018-12-19T00:52:53Z",
+    "industry": "Auto Manufacturing",
+    "isInternal": true
+  },
+  {
+    "id": 13,
+    "amount": "$37650.63",
+    "shopName": "Gevee",
+    "date": "2020-02-19T20:15:08Z",
+    "industry": "Computer Software: Prepackaged Software",
+    "isInternal": true
+  },
+  {
+    "id": 14,
+    "amount": "$450203.44",
+    "shopName": "Skalith",
+    "date": "2021-08-11T10:24:31Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 15,
+    "amount": null,
+    "shopName": "Rhyloo",
+    "date": "2019-07-20T08:04:50Z",
+    "industry": "Farming/Seeds/Milling",
+    "isInternal": false
+  },
+  {
+    "id": 16,
+    "amount": "$737014.11",
+    "shopName": "Blognation",
+    "date": "2018-07-26T19:15:04Z",
+    "industry": "Other Pharmaceuticals",
+    "isInternal": false
+  },
+  {
+    "id": 17,
+    "amount": "$-97841.47",
+    "shopName": "Yakijo",
+    "date": "2018-07-30T09:13:55Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 18,
+    "amount": "$793106.05",
+    "shopName": "Tagcat",
+    "date": "2020-08-02T16:13:30Z",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "isInternal": true
+  },
+  {
+    "id": 19,
+    "amount": "$-211037.82",
+    "shopName": "Kanoodle",
+    "date": "2020-11-14T10:52:56Z",
+    "industry": "EDP Services",
+    "isInternal": true
+  },
+  {
+    "id": 20,
+    "amount": "$219422.63",
+    "shopName": "Oba",
+    "date": "2022-08-07T23:28:38Z",
+    "industry": "Multi-Sector Companies",
+    "isInternal": true
+  },
+  {
+    "id": 21,
+    "amount": "$-781848.45",
+    "shopName": "Kwinu",
+    "date": "2022-09-07T07:58:51Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 22,
+    "amount": "$953027.37",
+    "shopName": "Rhynoodle",
+    "date": "2020-03-29T08:59:52Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": true
+  },
+  {
+    "id": 23,
+    "amount": "$526560.05",
+    "shopName": "Zoomlounge",
+    "date": "2020-01-05T04:59:52Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 24,
+    "amount": "$152478.99",
+    "shopName": "Tekfly",
+    "date": "2020-06-02T10:15:19Z",
+    "industry": "Major Chemicals",
+    "isInternal": true
+  },
+  {
+    "id": 25,
+    "amount": "$-370963.40",
+    "shopName": "Tekfly",
+    "date": "2022-08-31T00:25:37Z",
+    "industry": "Business Services",
+    "isInternal": true
+  },
+  {
+    "id": 26,
+    "amount": "$900762.40",
+    "shopName": "Layo",
+    "date": "2022-04-01T08:40:53Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 27,
+    "amount": "$-382784.65",
+    "shopName": "Oyondu",
+    "date": "2018-10-29T21:19:57Z",
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 28,
+    "amount": "$274811.65",
+    "shopName": "Devify",
+    "date": "2019-06-11T18:04:40Z",
+    "industry": "Precision Instruments",
+    "isInternal": false
+  },
+  {
+    "id": 29,
+    "amount": "$683605.22",
+    "shopName": "Myworks",
+    "date": "2022-04-12T18:21:43Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 30,
+    "amount": "$-340336.17",
+    "shopName": "Twimm",
+    "date": "2019-05-07T12:35:32Z",
+    "industry": "Major Banks",
+    "isInternal": true
+  },
+  {
+    "id": 31,
+    "amount": "$742356.92",
+    "shopName": "Eidel",
+    "date": "2020-05-27T10:44:59Z",
+    "industry": "Investment Bankers/Brokers/Service",
+    "isInternal": true
+  },
+  {
+    "id": 32,
+    "amount": "$-969931.38",
+    "shopName": "Kwilith",
+    "date": "2020-11-27T03:23:23Z",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "isInternal": false
+  },
+  {
+    "id": 33,
+    "amount": "$-42923.51",
+    "shopName": "Yamia",
+    "date": "2019-10-26T05:25:05Z",
+    "industry": "Electrical Products",
+    "isInternal": false
+  },
+  {
+    "id": 34,
+    "amount": "$290950.14",
+    "shopName": "Rhyloo",
+    "date": "2021-05-23T00:34:49Z",
+    "industry": "Services-Misc. Amusement & Recreation",
+    "isInternal": false
+  },
+  {
+    "id": 35,
+    "amount": "$784664.24",
+    "shopName": "Blogspan",
+    "date": "2019-07-20T07:35:34Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 36,
+    "amount": "$-117610.15",
+    "shopName": "Ooba",
+    "date": "2022-01-22T10:10:16Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 37,
+    "amount": "$-51541.23",
+    "shopName": "Plajo",
+    "date": "2020-05-10T10:55:58Z",
+    "industry": "Electric Utilities: Central",
+    "isInternal": false
+  },
+  {
+    "id": 38,
+    "amount": "$-38441.06",
+    "shopName": "Demizz",
+    "date": "2020-10-10T01:34:35Z",
+    "industry": "Medical/Dental Instruments",
+    "isInternal": true
+  },
+  {
+    "id": 39,
+    "amount": "$-654309.62",
+    "shopName": "Voolith",
+    "date": "2021-05-20T17:07:54Z",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "isInternal": true
+  },
+  {
+    "id": 40,
+    "amount": "$-410797.28",
+    "shopName": "Pixope",
+    "date": "2021-06-26T01:42:45Z",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "isInternal": true
+  },
+  {
+    "id": 41,
+    "amount": "$-475059.19",
+    "shopName": "Divavu",
+    "date": "2020-03-09T21:57:03Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": true
+  },
+  {
+    "id": 42,
+    "amount": "$-940650.79",
+    "shopName": "Thoughtstorm",
+    "date": "2021-12-01T08:32:51Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": false
+  },
+  {
+    "id": 43,
+    "amount": "$854428.71",
+    "shopName": "Gabcube",
+    "date": "2018-09-07T15:03:06Z",
+    "industry": "Finance: Consumer Services",
+    "isInternal": false
+  },
+  {
+    "id": 44,
+    "amount": "$718005.67",
+    "shopName": "Photobug",
+    "date": "2021-09-01T17:17:31Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": true
+  },
+  {
+    "id": 45,
+    "amount": "$-588028.95",
+    "shopName": "Gabtune",
+    "date": "2020-05-16T06:19:12Z",
+    "industry": "Investment Bankers/Brokers/Service",
+    "isInternal": true
+  },
+  {
+    "id": 46,
+    "amount": "$276014.19",
+    "shopName": "Topicware",
+    "date": "2021-05-09T09:05:02Z",
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 47,
+    "amount": "$503728.95",
+    "shopName": "Zoombox",
+    "date": "2020-11-10T12:06:45Z",
+    "industry": "Computer Software: Programming, Data Processing",
+    "isInternal": false
+  },
+  {
+    "id": 48,
+    "amount": "$-349976.66",
+    "shopName": "Tagpad",
+    "date": "2020-05-23T13:21:15Z",
+    "industry": "Beverages (Production/Distribution)",
+    "isInternal": false
+  },
+  {
+    "id": 49,
+    "amount": "$-111022.67",
+    "shopName": "Meemm",
+    "date": "2021-08-21T17:33:06Z",
+    "industry": "Medical Specialities",
+    "isInternal": false
+  },
+  {
+    "id": 50,
+    "amount": "$418344.73",
+    "shopName": "Edgeclub",
+    "date": "2020-07-08T08:03:06Z",
+    "industry": "Commercial Banks",
+    "isInternal": false
+  },
+  {
+    "id": 51,
+    "amount": "$-130083.25",
+    "shopName": "Yadel",
+    "date": "2019-03-10T12:35:59Z",
+    "industry": "Investment Managers",
+    "isInternal": false
+  },
+  {
+    "id": 52,
+    "amount": "$490042.41",
+    "shopName": "Gabspot",
+    "date": "2019-03-12T13:10:18Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 53,
+    "amount": "$-501002.21",
+    "shopName": "Linklinks",
+    "date": "2021-12-23T15:29:12Z",
+    "industry": "Food Chains",
+    "isInternal": false
+  },
+  {
+    "id": 54,
+    "amount": "$806894.45",
+    "shopName": "Trupe",
+    "date": "2021-03-04T03:13:27Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 55,
+    "amount": "$453735.54",
+    "shopName": "Edgeblab",
+    "date": "2020-05-13T17:14:55Z",
+    "industry": "Telecommunications Equipment",
+    "isInternal": true
+  },
+  {
+    "id": 56,
+    "amount": null,
+    "shopName": "Twinder",
+    "date": "2021-02-24T08:24:58Z",
+    "industry": "Natural Gas Distribution",
+    "isInternal": true
+  },
+  {
+    "id": 57,
+    "amount": "$-391618.05",
+    "shopName": "Agivu",
+    "date": "2018-06-18T22:10:11Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": true
+  },
+  {
+    "id": 58,
+    "amount": "$-892924.62",
+    "shopName": "Kayveo",
+    "date": "2022-07-20T07:44:50Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": true
+  },
+  {
+    "id": 59,
+    "amount": "$-963836.44",
+    "shopName": "Yadel",
+    "date": "2021-02-17T00:15:32Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 60,
+    "amount": "$427607.15",
+    "shopName": "Eayo",
+    "date": "2019-12-03T23:34:14Z",
+    "industry": "Containers/Packaging",
+    "isInternal": true
+  },
+  {
+    "id": 61,
+    "amount": "$625913.66",
+    "shopName": "Brainverse",
+    "date": "2019-06-13T15:44:00Z",
+    "industry": "Power Generation",
+    "isInternal": false
+  },
+  {
+    "id": 62,
+    "amount": "$368919.82",
+    "shopName": "Chatterbridge",
+    "date": "2020-08-29T18:33:27Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": false
+  },
+  {
+    "id": 63,
+    "amount": "$-248606.61",
+    "shopName": "Dynabox",
+    "date": "2020-05-06T15:36:57Z",
+    "industry": "Consumer Electronics/Appliances",
+    "isInternal": false
+  },
+  {
+    "id": 64,
+    "amount": "$71367.51",
+    "shopName": "Mycat",
+    "date": "2022-04-29T04:03:52Z",
+    "industry": "Property-Casualty Insurers",
+    "isInternal": false
+  },
+  {
+    "id": 65,
+    "amount": "$164419.21",
+    "shopName": "Tagchat",
+    "date": "2021-07-12T20:21:13Z",
+    "industry": "Air Freight/Delivery Services",
+    "isInternal": true
+  },
+  {
+    "id": 66,
+    "amount": "$-62929.18",
+    "shopName": "BlogXS",
+    "date": "2018-09-04T06:02:50Z",
+    "industry": "Life Insurance",
+    "isInternal": false
+  },
+  {
+    "id": 67,
+    "amount": "$-189772.63",
+    "shopName": "Meevee",
+    "date": "2020-11-07T08:32:50Z",
+    "industry": "Semiconductors",
+    "isInternal": false
+  },
+  {
+    "id": 68,
+    "amount": "$964037.90",
+    "shopName": "Linkbuzz",
+    "date": "2020-07-08T09:22:27Z",
+    "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+    "isInternal": false
+  },
+  {
+    "id": 69,
+    "amount": "$46433.55",
+    "shopName": "Devpoint",
+    "date": "2020-03-26T09:14:24Z",
+    "industry": "Environmental Services",
+    "isInternal": false
+  },
+  {
+    "id": 70,
+    "amount": "$821764.58",
+    "shopName": "Photojam",
+    "date": "2021-11-09T00:39:43Z",
+    "industry": "Business Services",
+    "isInternal": false
+  },
+  {
+    "id": 71,
+    "amount": "$-819725.78",
+    "shopName": "Jabbersphere",
+    "date": "2019-08-13T05:47:09Z",
+    "industry": "Telecommunications Equipment",
+    "isInternal": false
+  },
+  {
+    "id": 72,
+    "amount": "$631015.98",
+    "shopName": "Mymm",
+    "date": "2020-12-19T10:44:15Z",
+    "industry": "Wholesale Distributors",
+    "isInternal": false
+  },
+  {
+    "id": 73,
+    "amount": "$580858.65",
+    "shopName": "Camimbo",
+    "date": "2020-05-27T19:25:12Z",
+    "industry": "Electric Utilities: Central",
+    "isInternal": false
+  },
+  {
+    "id": 74,
+    "amount": "$-487113.14",
+    "shopName": "Innojam",
+    "date": "2019-03-05T00:22:48Z",
+    "industry": "Business Services",
+    "isInternal": true
+  },
+  {
+    "id": 75,
+    "amount": "$-847872.86",
+    "shopName": "Bluejam",
+    "date": "2019-09-11T12:45:08Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": false
+  },
+  {
+    "id": 76,
+    "amount": "$907476.05",
+    "shopName": "Bluezoom",
+    "date": "2022-01-12T17:32:10Z",
+    "industry": "Power Generation",
+    "isInternal": false
+  },
+  {
+    "id": 77,
+    "amount": "$104181.36",
+    "shopName": "Twitterlist",
+    "date": "2019-01-24T16:14:46Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": true
+  },
+  {
+    "id": 78,
+    "amount": "$93510.97",
+    "shopName": "Feedspan",
+    "date": "2021-03-06T07:24:02Z",
+    "industry": "Aerospace",
+    "isInternal": true
+  },
+  {
+    "id": 79,
+    "amount": "$39484.41",
+    "shopName": "Edgeclub",
+    "date": "2021-11-16T09:56:48Z",
+    "industry": "Business Services",
+    "isInternal": false
+  },
+  {
+    "id": 80,
+    "amount": "$691751.25",
+    "shopName": "Reallinks",
+    "date": "2021-08-03T12:37:32Z",
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 81,
+    "amount": "$-131419.33",
+    "shopName": "Reallinks",
+    "date": "2019-06-09T07:41:22Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 82,
+    "amount": "$399105.24",
+    "shopName": "Katz",
+    "date": "2022-07-23T05:54:19Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 83,
+    "amount": "$-565173.72",
+    "shopName": "Zoonder",
+    "date": "2022-02-24T22:06:52Z",
+    "industry": "Investment Bankers/Brokers/Service",
+    "isInternal": false
+  },
+  {
+    "id": 84,
+    "amount": "$395313.65",
+    "shopName": "Riffwire",
+    "date": "2019-08-12T05:46:42Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 85,
+    "amount": "$-384855.06",
+    "shopName": "Mynte",
+    "date": "2022-08-16T23:29:43Z",
+    "industry": "Major Banks",
+    "isInternal": true
+  },
+  {
+    "id": 86,
+    "amount": "$-975092.70",
+    "shopName": "Divanoodle",
+    "date": "2020-02-26T13:50:30Z",
+    "industry": "Agricultural Chemicals",
+    "isInternal": true
+  },
+  {
+    "id": 87,
+    "amount": null,
+    "shopName": "Rooxo",
+    "date": "2019-01-26T23:18:06Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": false
+  },
+  {
+    "id": 88,
+    "amount": "$630387.78",
+    "shopName": "Wordify",
+    "date": "2018-08-10T01:42:01Z",
+    "industry": "Restaurants",
+    "isInternal": true
+  },
+  {
+    "id": 89,
+    "amount": "$-230089.55",
+    "shopName": "Zoomcast",
+    "date": "2020-04-16T22:51:28Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": false
+  },
+  {
+    "id": 90,
+    "amount": "$21981.16",
+    "shopName": "Skidoo",
+    "date": "2021-07-25T16:59:21Z",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "isInternal": true
+  },
+  {
+    "id": 91,
+    "amount": "$-755653.34",
+    "shopName": "Tagtune",
+    "date": "2021-01-06T01:53:01Z",
+    "industry": "Biotechnology: Laboratory Analytical Instruments",
+    "isInternal": true
+  },
+  {
+    "id": 92,
+    "amount": "$601403.55",
+    "shopName": "Chatterpoint",
+    "date": "2019-09-12T00:29:13Z",
+    "industry": "Computer Software: Programming, Data Processing",
+    "isInternal": false
+  },
+  {
+    "id": 93,
+    "amount": "$-301133.24",
+    "shopName": "Quinu",
+    "date": "2019-06-24T02:32:05Z",
+    "industry": "Restaurants",
+    "isInternal": true
+  },
+  {
+    "id": 94,
+    "amount": "$-705344.05",
+    "shopName": "Oyondu",
+    "date": "2020-09-28T18:24:23Z",
+    "industry": "Telecommunications Equipment",
+    "isInternal": true
+  },
+  {
+    "id": 95,
+    "amount": "$-636249.68",
+    "shopName": "Latz",
+    "date": "2020-10-07T16:19:59Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": false
+  },
+  {
+    "id": 96,
+    "amount": "$-388685.39",
+    "shopName": "Trupe",
+    "date": "2019-09-06T00:06:56Z",
+    "industry": "Clothing/Shoe/Accessory Stores",
+    "isInternal": true
+  },
+  {
+    "id": 97,
+    "amount": "$830745.05",
+    "shopName": "Jatri",
+    "date": "2019-11-20T02:09:56Z",
+    "industry": "Telecommunications Equipment",
+    "isInternal": false
+  },
+  {
+    "id": 98,
+    "amount": "$505671.94",
+    "shopName": "Kaymbo",
+    "date": "2021-03-05T03:09:00Z",
+    "industry": "Life Insurance",
+    "isInternal": false
+  },
+  {
+    "id": 99,
+    "amount": "$781306.84",
+    "shopName": "Devify",
+    "date": "2022-07-20T12:44:25Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": true
+  },
+  {
+    "id": 100,
+    "amount": "$-77067.71",
+    "shopName": "Shuffletag",
+    "date": "2020-10-31T11:06:51Z",
+    "industry": "Catalog/Specialty Distribution",
+    "isInternal": true
+  },
+  {
+    "id": 101,
+    "amount": null,
+    "shopName": "Voonyx",
+    "date": "2021-12-30T11:43:40Z",
+    "industry": "Telecommunications Equipment",
+    "isInternal": false
+  },
+  {
+    "id": 102,
+    "amount": "$391938.55",
+    "shopName": "Izio",
+    "date": "2022-02-12T16:54:55Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 103,
+    "amount": "$326467.71",
+    "shopName": "Blognation",
+    "date": "2020-09-16T04:56:11Z",
+    "industry": "Semiconductors",
+    "isInternal": true
+  },
+  {
+    "id": 104,
+    "amount": null,
+    "shopName": "Thoughtstorm",
+    "date": "2019-05-24T03:53:23Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": true
+  },
+  {
+    "id": 105,
+    "amount": "$-383427.87",
+    "shopName": "Yacero",
+    "date": "2020-11-02T01:25:02Z",
+    "industry": "Computer Software: Programming, Data Processing",
+    "isInternal": true
+  },
+  {
+    "id": 106,
+    "amount": "$759831.97",
+    "shopName": "Trilia",
+    "date": "2021-01-05T14:59:06Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 107,
+    "amount": "$-643368.70",
+    "shopName": "Livepath",
+    "date": "2022-01-08T12:09:00Z",
+    "industry": "Metal Fabrications",
+    "isInternal": false
+  },
+  {
+    "id": 108,
+    "amount": "$949354.62",
+    "shopName": "Twitterwire",
+    "date": "2021-08-15T20:38:06Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": false
+  },
+  {
+    "id": 109,
+    "amount": "$-705922.74",
+    "shopName": "Kamba",
+    "date": "2021-12-30T17:40:24Z",
+    "industry": "Diversified Commercial Services",
+    "isInternal": true
+  },
+  {
+    "id": 110,
+    "amount": "$775357.45",
+    "shopName": "Trudeo",
+    "date": "2019-07-12T03:49:05Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 111,
+    "amount": "$311907.82",
+    "shopName": "Dabtype",
+    "date": "2018-09-15T06:07:37Z",
+    "industry": "Business Services",
+    "isInternal": false
+  },
+  {
+    "id": 112,
+    "amount": "$-949155.14",
+    "shopName": "Bluezoom",
+    "date": "2018-08-24T04:28:36Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 113,
+    "amount": "$-885927.47",
+    "shopName": "Youspan",
+    "date": "2020-05-01T11:19:55Z",
+    "industry": "Real Estate",
+    "isInternal": false
+  },
+  {
+    "id": 114,
+    "amount": "$-684886.53",
+    "shopName": "Zoomdog",
+    "date": "2020-12-14T01:46:28Z",
+    "industry": "Catalog/Specialty Distribution",
+    "isInternal": true
+  },
+  {
+    "id": 115,
+    "amount": "$636850.28",
+    "shopName": "Cogibox",
+    "date": "2020-07-12T17:45:12Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 116,
+    "amount": "$802260.01",
+    "shopName": "Jaxworks",
+    "date": "2021-04-09T02:42:51Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 117,
+    "amount": "$-851559.55",
+    "shopName": "Youspan",
+    "date": "2018-08-06T19:53:33Z",
+    "industry": "Electric Utilities: Central",
+    "isInternal": true
+  },
+  {
+    "id": 118,
+    "amount": "$94697.20",
+    "shopName": "Skyndu",
+    "date": "2021-10-16T06:56:12Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 119,
+    "amount": "$349282.36",
+    "shopName": "Twinte",
+    "date": null,
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 120,
+    "amount": "$632421.49",
+    "shopName": "Skiba",
+    "date": "2021-12-06T13:42:16Z",
+    "industry": "Apparel",
+    "isInternal": true
+  },
+  {
+    "id": 121,
+    "amount": "$-913350.20",
+    "shopName": "Teklist",
+    "date": "2022-09-10T06:08:19Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": false
+  },
+  {
+    "id": 122,
+    "amount": "$-757164.87",
+    "shopName": "Dabtype",
+    "date": "2019-08-30T18:40:29Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 123,
+    "amount": "$-983367.78",
+    "shopName": "Yakidoo",
+    "date": "2020-12-22T15:54:41Z",
+    "industry": "Major Banks",
+    "isInternal": true
+  },
+  {
+    "id": 124,
+    "amount": "$-651437.10",
+    "shopName": "Browsetype",
+    "date": "2022-07-17T23:22:05Z",
+    "industry": "Industrial Machinery/Components",
+    "isInternal": true
+  },
+  {
+    "id": 125,
+    "amount": "$-174027.07",
+    "shopName": "Thoughtmix",
+    "date": "2021-04-30T11:13:00Z",
+    "industry": "Professional Services",
+    "isInternal": true
+  },
+  {
+    "id": 126,
+    "amount": "$571493.30",
+    "shopName": "Roodel",
+    "date": "2021-05-20T09:54:35Z",
+    "industry": "Trucking Freight/Courier Services",
+    "isInternal": false
+  },
+  {
+    "id": 127,
+    "amount": "$26018.91",
+    "shopName": "Photofeed",
+    "date": "2018-08-10T20:34:31Z",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "isInternal": true
+  },
+  {
+    "id": 128,
+    "amount": "$-394977.12",
+    "shopName": "Jaxnation",
+    "date": "2019-06-10T21:21:56Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 129,
+    "amount": null,
+    "shopName": "Meetz",
+    "date": "2018-08-28T19:34:25Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 130,
+    "amount": "$-715977.30",
+    "shopName": "Babbleopia",
+    "date": "2022-04-11T09:33:37Z",
+    "industry": "Semiconductors",
+    "isInternal": false
+  },
+  {
+    "id": 131,
+    "amount": "$-348637.87",
+    "shopName": "Quimba",
+    "date": "2020-11-08T12:37:24Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 132,
+    "amount": "$-46100.56",
+    "shopName": "Aimbo",
+    "date": "2019-08-12T15:36:29Z",
+    "industry": "Packaged Foods",
+    "isInternal": true
+  },
+  {
+    "id": 133,
+    "amount": "$433872.75",
+    "shopName": "Devshare",
+    "date": "2018-11-30T10:05:30Z",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "isInternal": false
+  },
+  {
+    "id": 134,
+    "amount": "$789262.02",
+    "shopName": "Kaymbo",
+    "date": "2020-02-24T11:48:56Z",
+    "industry": "Steel/Iron Ore",
+    "isInternal": false
+  },
+  {
+    "id": 135,
+    "amount": "$-479534.64",
+    "shopName": "Camido",
+    "date": "2018-06-03T22:23:51Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 136,
+    "amount": "$946404.03",
+    "shopName": "Voonix",
+    "date": "2019-01-07T02:05:47Z",
+    "industry": "Hospital/Nursing Management",
+    "isInternal": false
+  },
+  {
+    "id": 137,
+    "amount": "$106924.44",
+    "shopName": "Lajo",
+    "date": "2022-03-07T22:30:14Z",
+    "industry": "Homebuilding",
+    "isInternal": true
+  },
+  {
+    "id": 138,
+    "amount": "$-10561.30",
+    "shopName": "Skibox",
+    "date": "2022-03-09T03:03:23Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": true
+  },
+  {
+    "id": 139,
+    "amount": "$-955557.03",
+    "shopName": "Voonder",
+    "date": "2022-01-04T16:28:32Z",
+    "industry": "Other Consumer Services",
+    "isInternal": false
+  },
+  {
+    "id": 140,
+    "amount": "$-892358.48",
+    "shopName": "Photobug",
+    "date": "2022-07-09T06:45:16Z",
+    "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "isInternal": true
+  },
+  {
+    "id": 141,
+    "amount": "$893678.33",
+    "shopName": "Zava",
+    "date": "2020-11-07T08:27:12Z",
+    "industry": "Consumer Specialties",
+    "isInternal": true
+  },
+  {
+    "id": 142,
+    "amount": "$-259613.58",
+    "shopName": "Zooxo",
+    "date": "2022-05-15T00:18:00Z",
+    "industry": "Plastic Products",
+    "isInternal": false
+  },
+  {
+    "id": 143,
+    "amount": "$475264.54",
+    "shopName": "Tagpad",
+    "date": "2018-08-21T18:44:06Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 144,
+    "amount": "$199917.71",
+    "shopName": "Twitternation",
+    "date": null,
+    "industry": "RETAIL: Building Materials",
+    "isInternal": true
+  },
+  {
+    "id": 145,
+    "amount": "$244799.71",
+    "shopName": "Gabspot",
+    "date": "2019-09-05T10:18:30Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": true
+  },
+  {
+    "id": 146,
+    "amount": "$-762069.57",
+    "shopName": "Brightdog",
+    "date": "2022-02-13T07:06:08Z",
+    "industry": "Savings Institutions",
+    "isInternal": false
+  },
+  {
+    "id": 147,
+    "amount": "$-688375.36",
+    "shopName": "Topdrive",
+    "date": "2020-01-25T13:26:00Z",
+    "industry": "Restaurants",
+    "isInternal": true
+  },
+  {
+    "id": 148,
+    "amount": "$466406.74",
+    "shopName": "Tagtune",
+    "date": "2020-09-04T08:21:37Z",
+    "industry": "Business Services",
+    "isInternal": true
+  },
+  {
+    "id": 149,
+    "amount": "$891585.37",
+    "shopName": "Kwimbee",
+    "date": "2021-07-16T13:08:24Z",
+    "industry": "Industrial Machinery/Components",
+    "isInternal": false
+  },
+  {
+    "id": 150,
+    "amount": "$-172503.32",
+    "shopName": "Buzzster",
+    "date": "2019-07-25T00:59:52Z",
+    "industry": "Computer Software: Prepackaged Software",
+    "isInternal": false
+  },
+  {
+    "id": 151,
+    "amount": "$878214.24",
+    "shopName": "Jamia",
+    "date": "2019-03-27T00:38:00Z",
+    "industry": "Natural Gas Distribution",
+    "isInternal": false
+  },
+  {
+    "id": 152,
+    "amount": "$825296.37",
+    "shopName": "Zoomdog",
+    "date": "2022-01-29T13:42:17Z",
+    "industry": "Restaurants",
+    "isInternal": false
+  },
+  {
+    "id": 153,
+    "amount": "$-307904.12",
+    "shopName": "Lazzy",
+    "date": "2021-02-19T01:24:23Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 154,
+    "amount": "$-232772.30",
+    "shopName": "Livepath",
+    "date": "2019-05-27T02:21:05Z",
+    "industry": "Office Equipment/Supplies/Services",
+    "isInternal": false
+  },
+  {
+    "id": 155,
+    "amount": "$-654946.07",
+    "shopName": "Dabvine",
+    "date": "2020-07-05T21:40:09Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 156,
+    "amount": "$414673.25",
+    "shopName": "Tagfeed",
+    "date": "2020-04-06T04:02:40Z",
+    "industry": "Property-Casualty Insurers",
+    "isInternal": false
+  },
+  {
+    "id": 157,
+    "amount": "$134598.75",
+    "shopName": "Mydeo",
+    "date": "2018-07-30T03:49:20Z",
+    "industry": "Marine Transportation",
+    "isInternal": true
+  },
+  {
+    "id": 158,
+    "amount": "$848229.67",
+    "shopName": "Dynazzy",
+    "date": "2021-12-18T22:57:11Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 159,
+    "amount": "$24692.38",
+    "shopName": "Divavu",
+    "date": "2020-01-06T23:03:15Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 160,
+    "amount": "$101143.56",
+    "shopName": "Zoomdog",
+    "date": "2022-04-03T17:40:06Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 161,
+    "amount": "$474222.46",
+    "shopName": "Meedoo",
+    "date": "2020-09-11T22:57:13Z",
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 162,
+    "amount": "$-280078.88",
+    "shopName": "Fatz",
+    "date": null,
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": false
+  },
+  {
+    "id": 163,
+    "amount": "$738787.89",
+    "shopName": "Zoomzone",
+    "date": "2020-06-15T19:07:15Z",
+    "industry": "Restaurants",
+    "isInternal": false
+  },
+  {
+    "id": 164,
+    "amount": "$444316.84",
+    "shopName": "Zoomdog",
+    "date": "2019-08-12T23:46:05Z",
+    "industry": "Precious Metals",
+    "isInternal": false
+  },
+  {
+    "id": 165,
+    "amount": "$461857.83",
+    "shopName": "Latz",
+    "date": "2019-04-13T18:15:31Z",
+    "industry": "Beverages (Production/Distribution)",
+    "isInternal": false
+  },
+  {
+    "id": 166,
+    "amount": "$-799833.65",
+    "shopName": "Jaxworks",
+    "date": "2020-04-27T10:04:15Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 167,
+    "amount": "$-637942.34",
+    "shopName": "Linktype",
+    "date": "2020-08-30T02:44:59Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 168,
+    "amount": "$-872153.36",
+    "shopName": "Tagchat",
+    "date": "2021-08-26T21:05:56Z",
+    "industry": "Home Furnishings",
+    "isInternal": false
+  },
+  {
+    "id": 169,
+    "amount": "$-719194.12",
+    "shopName": "Innotype",
+    "date": "2021-11-03T11:45:33Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 170,
+    "amount": "$-612124.58",
+    "shopName": "Feedmix",
+    "date": "2019-10-31T09:07:07Z",
+    "industry": "Electronic Components",
+    "isInternal": true
+  },
+  {
+    "id": 171,
+    "amount": "$845322.82",
+    "shopName": "Zoonder",
+    "date": "2019-03-12T16:49:32Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 172,
+    "amount": "$501370.53",
+    "shopName": "Trunyx",
+    "date": "2019-01-29T07:03:31Z",
+    "industry": "Business Services",
+    "isInternal": false
+  },
+  {
+    "id": 173,
+    "amount": "$-56256.38",
+    "shopName": "Oyonder",
+    "date": "2021-01-15T20:57:25Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 174,
+    "amount": "$-712716.05",
+    "shopName": "Trilith",
+    "date": "2020-01-14T03:22:16Z",
+    "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+    "isInternal": false
+  },
+  {
+    "id": 175,
+    "amount": "$554966.43",
+    "shopName": "Kazio",
+    "date": "2019-09-09T01:17:26Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 176,
+    "amount": "$-724581.39",
+    "shopName": "Podcat",
+    "date": "2020-08-12T06:17:54Z",
+    "industry": "Telecommunications Equipment",
+    "isInternal": false
+  },
+  {
+    "id": 177,
+    "amount": "$-609112.35",
+    "shopName": "Divanoodle",
+    "date": "2020-01-23T20:27:32Z",
+    "industry": "EDP Services",
+    "isInternal": false
+  },
+  {
+    "id": 178,
+    "amount": "$35201.83",
+    "shopName": "DabZ",
+    "date": "2019-04-05T15:06:12Z",
+    "industry": "n/a",
+    "isInternal": false
+  },
+  {
+    "id": 179,
+    "amount": "$869212.15",
+    "shopName": "Centidel",
+    "date": "2018-07-10T01:28:26Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": false
+  },
+  {
+    "id": 180,
+    "amount": "$514438.18",
+    "shopName": "Devpulse",
+    "date": null,
+    "industry": "Consumer Electronics/Appliances",
+    "isInternal": false
+  },
+  {
+    "id": 181,
+    "amount": "$-687695.94",
+    "shopName": "Aimbo",
+    "date": "2020-12-27T10:35:21Z",
+    "industry": "Precious Metals",
+    "isInternal": true
+  },
+  {
+    "id": 182,
+    "amount": "$88579.94",
+    "shopName": "Twiyo",
+    "date": "2019-06-28T14:55:05Z",
+    "industry": "Auto Manufacturing",
+    "isInternal": true
+  },
+  {
+    "id": 183,
+    "amount": "$510111.54",
+    "shopName": "Jatri",
+    "date": "2019-02-08T15:40:02Z",
+    "industry": "Natural Gas Distribution",
+    "isInternal": true
+  },
+  {
+    "id": 184,
+    "amount": "$-342884.59",
+    "shopName": "Thoughtbridge",
+    "date": "2021-09-30T14:31:30Z",
+    "industry": "Other Specialty Stores",
+    "isInternal": true
+  },
+  {
+    "id": 185,
+    "amount": "$-813354.20",
+    "shopName": "Meeveo",
+    "date": "2018-11-24T10:18:54Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 186,
+    "amount": "$315889.93",
+    "shopName": "Rhybox",
+    "date": null,
+    "industry": "Electric Utilities: Central",
+    "isInternal": false
+  },
+  {
+    "id": 187,
+    "amount": "$-863057.03",
+    "shopName": "Divape",
+    "date": "2019-04-30T15:02:38Z",
+    "industry": "Major Pharmaceuticals",
+    "isInternal": false
+  },
+  {
+    "id": 188,
+    "amount": "$-608839.47",
+    "shopName": "Flashspan",
+    "date": "2019-07-21T18:57:02Z",
+    "industry": "Radio And Television Broadcasting And Communications Equipment",
+    "isInternal": false
+  },
+  {
+    "id": 189,
+    "amount": "$-543148.02",
+    "shopName": "Camido",
+    "date": "2018-11-15T22:09:41Z",
+    "industry": "n/a",
+    "isInternal": true
+  },
+  {
+    "id": 190,
+    "amount": "$598514.62",
+    "shopName": "JumpXS",
+    "date": "2022-02-19T23:04:26Z",
+    "industry": "Savings Institutions",
+    "isInternal": false
+  },
+  {
+    "id": 191,
+    "amount": "$385535.61",
+    "shopName": "Bluezoom",
+    "date": "2018-06-04T17:30:43Z",
+    "industry": "Investment Bankers/Brokers/Service",
+    "isInternal": true
+  },
+  {
+    "id": 192,
+    "amount": "$313867.65",
+    "shopName": "Wikizz",
+    "date": "2019-09-09T19:51:30Z",
+    "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+    "isInternal": true
+  },
+  {
+    "id": 193,
+    "amount": "$-624152.96",
+    "shopName": "Buzzster",
+    "date": "2020-01-17T19:05:56Z",
+    "industry": "Electric Utilities: Central",
+    "isInternal": true
+  },
+  {
+    "id": 194,
+    "amount": "$-508439.23",
+    "shopName": "Thoughtworks",
+    "date": "2019-02-18T06:11:19Z",
+    "industry": "Oil Refining/Marketing",
+    "isInternal": true
+  },
+  {
+    "id": 195,
+    "amount": "$802162.71",
+    "shopName": "Wordware",
+    "date": "2020-08-11T03:23:54Z",
+    "industry": "Major Banks",
+    "isInternal": false
+  },
+  {
+    "id": 196,
+    "amount": "$374306.76",
+    "shopName": "Jazzy",
+    "date": "2022-09-15T13:47:57Z",
+    "industry": "Other Consumer Services",
+    "isInternal": true
+  },
+  {
+    "id": 197,
+    "amount": "$-931393.46",
+    "shopName": "Roombo",
+    "date": "2019-02-13T02:40:29Z",
+    "industry": "EDP Services",
+    "isInternal": false
+  },
+  {
+    "id": 198,
+    "amount": "$-430826.23",
+    "shopName": "Ntag",
+    "date": "2021-11-14T08:54:24Z",
+    "industry": "Real Estate Investment Trusts",
+    "isInternal": false
+  },
+  {
+    "id": 199,
+    "amount": "$-37988.60",
+    "shopName": "Youtags",
+    "date": "2019-08-21T03:34:20Z",
+    "industry": "Home Furnishings",
+    "isInternal": false
+  },
+  {
+    "id": 200,
+    "amount": "$-75365.85",
+    "shopName": "Agimba",
+    "date": "2022-02-07T00:50:17Z",
+    "industry": "Oil & Gas Production",
+    "isInternal": false
+  }
+]
